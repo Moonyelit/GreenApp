@@ -1,12 +1,47 @@
-# React + Vite
+# GreenApp 🌿
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenue sur **GreenApp**, une application de vente de plantes créée pour apprendre à utiliser React. Ce projet est basé sur le tutoriel d'OpenClassrooms.
 
-Currently, two official plugins are available:
+## Auteur
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👤 **Moonye**
 
-## Expanding the ESLint configuration
+## Description
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+GreenApp est une application de commerce électronique dédiée à la vente de plantes. Elle permet aux utilisateurs de parcourir une sélection de plantes, d'ajouter des plantes à leur panier et de finaliser leurs achats.
+
+## Fonctionnalités
+
+- Affichage des plantes disponibles
+- Ajout de plantes au panier
+- Gestion du panier
+- Finalisation des achats
+
+## Technologies utilisées
+
+- React
+- JavaScript
+- HTML
+- CSS
+
+## Installation
+
+1. Clonez le dépôt
+   ```bash
+   git clone https://github.com/votre-utilisateur/GreenApp.git
+   ```
+2. Installez les dépendances
+   ```bash
+   cd GreenApp
+   npm install
+   ```
+3. Démarrez l'application
+   ```bash
+   npm start
+   ```
+
+## Ressources
+
+- [Tutoriel OpenClassrooms](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7137561-tirez-le-maximum-de-ce-cours-20)
+
+Amusez-vous bien en apprenant React avec GreenApp ! 🌱
