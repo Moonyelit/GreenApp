@@ -8,21 +8,21 @@ Bienvenue sur **GreenApp**, une application de vente de plantes créée pour app
 
 ## Description
 
-GreenApp est une application de commerce électronique dédiée à la vente de plantes. Elle permet aux utilisateurs de parcourir une sélection de plantes, d'ajouter des plantes à leur panier et de finaliser leurs achats.
+GreenApp est une application de commerce électronique dédiée à la vente de plantes. Elle permet aux utilisateurs de parcourir une sélection de plantes, d'ajouter des plantes à leur panier et de finaliser leurs achats. Cette application sert à apprendre les bases de React avec le cours proposé par OpenClassrooms. 🌱
 
 ## Fonctionnalités
 
-- Affichage des plantes disponibles
-- Ajout de plantes au panier
-- Gestion du panier
-- Finalisation des achats
+- Affichage des plantes disponibles 🌿
+- Ajout de plantes au panier 🛒
+- Gestion du panier 🧺
+- Finalisation des achats ✅
 
 ## Technologies utilisées
 
-- React
-- JavaScript
-- HTML
-- CSS
+- React ⚛️
+- JavaScript 📜
+- HTML 📝
+- CSS 🎨
 
 ## Installation
 
@@ -37,11 +37,15 @@ GreenApp est une application de commerce électronique dédiée à la vente de p
    ```
 3. Démarrez l'application
    ```bash
-   npm start
+   npm run dev
    ```
 
-## Ressources
+## Ressources 🌱
 
-- [Tutoriel OpenClassrooms](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7137561-tirez-le-maximum-de-ce-cours-20)
+- [Tutoriel OpenClassrooms](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7137561-tirez-le-maximum-de-ce-cours-20) 📚
 
-Amusez-vous bien en apprenant React avec GreenApp ! 🌱
+
+## Apprentissage
+
+- Apprendre les hooks 🔄
+- Utiliser `useState` et autres hooks de React
